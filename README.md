@@ -17,6 +17,8 @@
 
 ## Reports
 
+![Alt-текст](https://github.com/anastasiia-belova/population-power-bi/blob/main/pictures_population/pic_dashboard_cards.PNG)
+![Alt-текст](https://github.com/anastasiia-belova/population-power-bi/blob/main/pictures_population/pic_dashboard_map.PNG)
 
 ```python
 # Simulate Standard Normal Distribution
